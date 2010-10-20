@@ -1,0 +1,281 @@
+
+begin
+	button = Power
+	prog = ude-dbus-lirc-bridge
+	config = Power
+end
+
+begin
+	button = Record
+	prog = ude-dbus-lirc-bridge
+	config = Record
+end
+
+begin
+	button = Stop
+	prog = ude-dbus-lirc-bridge
+	config = Stop
+end
+
+begin
+	button = Pause
+	prog = ude-dbus-lirc-bridge
+	config = Pause
+end
+
+begin
+	button = Rewind
+	prog = ude-dbus-lirc-bridge
+	config = Rewind
+end
+
+begin
+	button = Forward
+	prog = ude-dbus-lirc-bridge
+	config = Forward
+end
+
+begin
+	button = Replay
+	prog = ude-dbus-lirc-bridge
+	config = SkipBack
+end
+
+begin
+	button = Skip
+	prog = ude-dbus-lirc-bridge
+	config = SkipForward
+end
+
+begin
+	button = Play
+	prog = ude-dbus-lirc-bridge
+	config = Play
+end
+
+begin
+	button = Home
+	prog = ude-dbus-lirc-bridge
+	config = Home
+end
+
+begin
+	button = Pictures
+	prog = ude-dbus-lirc-bridge
+	config = Pictures
+end
+
+begin
+	button = Videos
+	prog = ude-dbus-lirc-bridge
+	config = Videos
+end
+
+begin
+	button = Music
+	prog = ude-dbus-lirc-bridge
+	config = Music
+end
+
+begin
+	button = Radio
+	prog = ude-dbus-lirc-bridge
+	config = Radio
+end
+
+begin
+	button = Back
+	prog = ude-dbus-lirc-bridge
+	config = Back
+end
+
+begin
+	button = More
+	prog = ude-dbus-lirc-bridge
+	config = MoreInfo
+end
+
+begin
+	button = Up
+	prog = ude-dbus-lirc-bridge
+	config = Up
+end
+
+begin
+	button = Down
+	prog = ude-dbus-lirc-bridge
+	config = Down
+end
+
+begin
+	button = Left
+	prog = ude-dbus-lirc-bridge
+	config = Left
+end
+
+begin
+	button = Right
+	prog = ude-dbus-lirc-bridge
+	config = Right
+end
+
+begin
+	button = OK
+	prog = ude-dbus-lirc-bridge
+	config = OK
+end
+
+begin
+	button = VolUp
+	prog = ude-dbus-lirc-bridge
+	config = VolumeUp
+	repeat = 1
+end
+
+begin
+	button = VolDown
+	prog = ude-dbus-lirc-bridge
+	config = VolumeDown
+	repeat = 1
+end
+
+begin
+	button = ChanUp
+	prog = ude-dbus-lirc-bridge
+	config = ChannelUp
+	repeat = 1
+end
+
+begin
+	button = ChanDown
+	prog = ude-dbus-lirc-bridge
+	config = ChannelDown
+	repeat = 1
+end
+
+begin
+	button = Mute
+	prog = ude-dbus-lirc-bridge
+	config = Mute
+end
+
+begin
+	button = LiveTV
+	prog = ude-dbus-lirc-bridge
+	config = LiveTV
+end
+
+begin
+	button = RecTV
+	prog = ude-dbus-lirc-bridge
+	config = RecordedTV
+end
+
+begin
+	button = Guide
+	prog = ude-dbus-lirc-bridge
+	config = Guide
+end
+
+begin
+	button = Zero
+	prog = ude-dbus-lirc-bridge
+	config = 0
+end
+
+begin
+	button = One
+	prog = ude-dbus-lirc-bridge
+	config = 1
+end
+
+begin
+	button = Two
+	prog = ude-dbus-lirc-bridge
+	config = 2
+end
+
+begin
+	button = Three
+	prog = ude-dbus-lirc-bridge
+	config = 3
+end
+
+begin
+	button = Four
+	prog = ude-dbus-lirc-bridge
+	config = 4
+end
+
+begin
+	button = Five
+	prog = ude-dbus-lirc-bridge
+	config = 5
+end
+
+begin
+	button = Six
+	prog = ude-dbus-lirc-bridge
+	config = 6
+end
+
+begin
+	button = Seven
+	prog = ude-dbus-lirc-bridge
+	config = 7
+end
+
+begin
+	button = Eight
+	prog = ude-dbus-lirc-bridge
+	config = 8
+end
+
+begin
+	button = Nine
+	prog = ude-dbus-lirc-bridge
+	config = 9
+end
+
+begin
+	button = Star
+	prog = ude-dbus-lirc-bridge
+	config = Asterisk
+end
+
+begin
+	button = Hash
+	prog = ude-dbus-lirc-bridge
+	config = Pound
+end
+
+begin
+	button = DVD
+	prog = ude-dbus-lirc-bridge
+	config = DVDMenu
+end
+
+begin
+	button = Aspect
+	prog = ude-dbus-lirc-bridge
+	config = Zoom
+end
+
+begin
+	button = BB4
+	prog = ude-dbus-lirc-bridge
+	config = Angle
+end
+
+begin
+	button = BB3
+	prog = ude-dbus-lirc-bridge
+	config = Audio
+end
+
+begin
+	button = BB2
+	prog = ude-dbus-lirc-bridge
+	config = Subtitle
+end
+
