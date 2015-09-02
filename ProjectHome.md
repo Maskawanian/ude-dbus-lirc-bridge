@@ -1,0 +1,1 @@
+This program connects to LIRC and broadcasts all information over DBUS.
